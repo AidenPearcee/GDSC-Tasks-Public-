@@ -1,0 +1,25 @@
+
+body {
+    text-align:left;
+    background-color: black;
+    color: white;
+ 
+     }
+head {
+    text-align: center;
+}
+Header {
+    font-size:x-large; text-align: center; 
+    background-color: black;
+   color: purple;
+}
+main {
+    font-size: large;
+    color: purple;
+}
+footer { 
+    text-align: center;
+    font-size: x-large;
+    color: purple;
+   
+}
